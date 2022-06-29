@@ -3,7 +3,7 @@
 # Project Statement
 ---
 The spread of Covid-19 took the world unprepared in the year 2019, with daily global cases.
-The aim of the project is to analyse and affirm confirmed,death and recovery cases of Covid-19.
+The aim of the project is to analyse and affirm confirmed,death and recovery cases of Covid-19 since it's advent.
 
 ---
 
